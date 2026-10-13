@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CoinGuy/CoinGuy.vcxproj" Id="f2b6ffdd-897d-4cef-80ab-8648eeed672b" />
+</Solution>
